@@ -1,0 +1,12 @@
+﻿  thostmduserapi_wrap.cxx
+F:\pro_cpp\ctp编译成python\ctpmd\3cppcompile\_thostmduserapi\_thostmduserapi\thostmduserapi_wrap.cxx(335883,16): warning C4244: “初始化”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+F:\pro_cpp\ctp编译成python\ctpmd\3cppcompile\_thostmduserapi\_thostmduserapi\thostmduserapi_wrap.cxx(335942,16): warning C4244: “初始化”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+F:\pro_cpp\ctp编译成python\ctpmd\3cppcompile\_thostmduserapi\_thostmduserapi\thostmduserapi_wrap.cxx(336001,16): warning C4244: “初始化”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+F:\pro_cpp\ctp编译成python\ctpmd\3cppcompile\_thostmduserapi\_thostmduserapi\thostmduserapi_wrap.cxx(336060,16): warning C4244: “初始化”: 从“Py_ssize_t”转换到“int”，可能丢失数据
+    正在创建库 F:\pro_cpp\ctp编译成python\ctpmd\3cppcompile\_thostmduserapi\x64\Release\_thostmduserapi.lib 和对象 F:\pro_cpp\ctp编译成python\ctpmd\3cppcompile\_thostmduserapi\x64\Release\_thostmduserapi.exp
+  正在生成代码
+  13 of 9891 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    8980 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  _thostmduserapi.vcxproj -> F:\pro_cpp\ctp编译成python\ctpmd\3cppcompile\_thostmduserapi\x64\Release\_thostmduserapi.dll
